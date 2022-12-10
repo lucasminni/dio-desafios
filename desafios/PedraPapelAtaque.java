@@ -1,6 +1,6 @@
 // Abaixo segue um exemplo de código que você pode ou não utilizar
 import java.util.*; 
-public class teste {
+public class PedraPapelAtaque {
     public static void main(String[] args) {
       	Scanner leitor = new Scanner(System.in);
     	int N = leitor.nextInt();
