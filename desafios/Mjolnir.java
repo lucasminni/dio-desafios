@@ -9,7 +9,7 @@ public class Mjolnir {
             String nome = leitor.next();
             int N = leitor.nextInt();
             if (nome.equals("Thor")) System.out.println("Y");
-            else if (! nome.equals("Thor") && N < 25000 ) System.out.println(("N"));
+            else if (! nome.equals("Thor") && N < 25000 ) System.out.println(("N1"));
         }
     }
 }
